@@ -1,21 +1,49 @@
-# restaurant-data-analysis
-Exploratory data analysis of restaurant data using Python, Pandas and Matplotlib.
-## Projects
+# Restaurant Data Analysis
 
-### Level 1 — Restaurant Data Analysis
+## Project Overview
 
-1. **Task 1: Top Cuisines Analysis**
+This project explores restaurant data using Python, Pandas, Matplotlib, and Seaborn.
 
-   * Analyzing the most common cuisines.
+The analysis focuses on restaurant cuisines, city-wise distribution, pricing, online delivery, ratings, and other restaurant-related patterns.
 
-2. **Task 2: City Analysis**
+## Project Structure
 
-   * Analyzing restaurant data by city.
+### Level 1 Tasks
 
-3. **Task 3: Price Analysis**
+- Top Cuisines
+- City Analysis
+- Price Analysis
+- Online Delivery Analysis
 
-   * Analyzing restaurant price ranges.
+### Level 2 Tasks
 
-4. **Task 4: Online Delivery Analysis**
+- Ratings Analysis
+- Additional restaurant data analysis tasks
 
-   * Analyzing restaurants based on online delivery availability.
+## Tools and Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Key Learning Outcomes
+
+- Data cleaning and preprocessing
+- Exploratory Data Analysis
+- Grouping and aggregation
+- Data visualization
+- Finding patterns and insights from data
+
+## Repository Contents
+
+- `Level_1/` – Level 1 analysis notebooks
+- `Level_2/` – Level 2 analysis notebooks
+
+## Author
+
+Manyagowda
+
+GitHub: https://github.com/manyagowda1704
